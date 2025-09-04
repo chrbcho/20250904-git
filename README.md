@@ -2,5 +2,5 @@
 
 - `clone`: one-time download of a git repository
     - do not nest your repos
-- `git add`: add/update files to be tracked to repository
-
+- `add <FILES>`: adds <FILES> or changes to staging
+- `commit`: makes a snapshot of changes to repo
